@@ -13,7 +13,7 @@ You'll need the latest debian file (.deb) in our releases tab (TBD) and [this pa
 
 ### For developers
 
-You'll need the following dependencies:
+You'll need the following dependencies, in addition to the user .deb packages described above:
 
 * gobject-introspection
 * libglib2.0-dev
